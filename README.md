@@ -19,13 +19,6 @@ Os dados da atividade são fictícios (`MockActivityWorker`).
 - iPhone real para testar a câmera (o simulador não tem câmera; nele o botão **Tirar foto** fica desativado)
 - Uma imagem chamada `defaultBackground` no `Assets.xcassets`, usada quando não há foto
 
-## Como rodar
-
-1. Abra `ImageRendererPOC.xcodeproj` no Xcode.
-2. Selecione um simulador ou um iPhone.
-3. Rode o app (⌘R).
-4. Toque em **Gerar imagem**. Para usar a câmera, toque antes em **Tirar foto** (iPhone real).
-
 ### Permissões (Info do target)
 
 | Chave | Uso |
